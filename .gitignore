@@ -1,1 +1,6 @@
-.DS_Store
+# Exclude the developer's folder
+dev/
+
+# Exclude the DS_Store file from macOS
+*/.DS_Store
+
