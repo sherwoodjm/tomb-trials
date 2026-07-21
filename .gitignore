@@ -1,4 +1,5 @@
-# Exclude the developer's folder
+# Exclude the developer and asset folders
+assets/
 dev/
 
 # Exclude the DS_Store file from macOS
